@@ -48,3 +48,8 @@ database tables with one-to-many relationship
 g) A sequence diagram to represent the interaction of the proposed web application
 
 ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
+
+h) References
+
+- https://capstoneguide.com/student-database-management-system-capstone-project-document/
+- https://www.daniweb.com/programming/databases/threads/374806/tuition-centre-erd
