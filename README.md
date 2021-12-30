@@ -1,6 +1,6 @@
 <h1> StudyPoint tuition centre website. </h1>
 
-a) Name and Matric No of the group members
+<h3> a) Name and Matric No of the group members </h3>
 
   1. Nur Afiqah bt Mohd Rosli 1910100
   2. Mastura bt Mohamad Rizal 1918378
@@ -8,7 +8,7 @@ a) Name and Matric No of the group members
   4. Nur Ameliene Lee         1912216
   5. Julyana binti Rahmad     1912068
  
-b) Title of the project
+<h3> b) Title of the project </h3>
 
 StudyPoint tuition centre website.
 
