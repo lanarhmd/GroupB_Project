@@ -39,7 +39,7 @@ to access.
 database tables with one-to-many relationship </h3>
 
 - 5 view
-- 20 routes
+- 5 routes
 - 5 Model (Student, Tutor, Schedule, Subject, Tuition centre)
 - 5 Controller
 
