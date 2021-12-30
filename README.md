@@ -1,4 +1,4 @@
-<h1> STUDYPOINT CENTER WEBSITE. </h1>
+<h1> STUDYPOINT TUITION CENTRE WEBSITE. </h1>
 
 <h3> a) Name and Matric No of the group members </h3>
 
