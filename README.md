@@ -1,4 +1,4 @@
-# GroupB_Project
+<h1> StudyPoint tuition centre website. </h1>
 
 a) Name and Matric No of the group members
 
