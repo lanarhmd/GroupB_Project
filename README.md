@@ -44,6 +44,7 @@ database tables with one-to-many relationship </h3>
 - 5 routes
 - 5 Model (Student, Tutor, Schedule, Subject, Tuition centre)
 - 5 Controller
+- 5
 
 ![erd](https://user-images.githubusercontent.com/61736340/147633228-46133af0-871f-44d7-b9dc-6bd07b6edef9.png)
 
