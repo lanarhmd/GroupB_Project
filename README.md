@@ -158,8 +158,6 @@ Below is the page that will be appeared if we click on the subject section.
 
 
 
-   ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
-
    <li> Student Registration Page
        <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject. </p>
 
