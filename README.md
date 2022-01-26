@@ -108,21 +108,23 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
   <h3> 4.0  A sequence diagram to represent the interaction of the proposed web application. </h3>
   
+    ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
      <li>Front page before enter the website
         <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
    
-   ![image](https://user-images.githubusercontent.com/96851738/151143211-786627ef-3205-4df9-9e26-57a2e8934340.png)
-    ![image](https://user-images.githubusercontent.com/96851738/151143251-31416527-c024-41a6-b8a6-fe99f09e18f7.png)
+   ![2](https://user-images.githubusercontent.com/96851738/151152532-683c5acc-6664-4456-942c-f21b08ed1304.png)
+![1](https://user-images.githubusercontent.com/96851738/151152542-20c95712-c80e-4c34-95b5-3d9a7b9e0728.png)
+
        
   <li>Log in and Register Page
     <p> First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database. User need to register their name, email and also the password </p>
         
-    
- ![Screenshot (206)](https://user-images.githubusercontent.com/96851738/151144947-4cab144b-2ab7-484c-90af-e878d05aa643.png)
-![Screenshot (205)](https://user-images.githubusercontent.com/96851738/151144960-513db0b9-7f35-4caa-a582-36de83ce42c6.png)
+  ![register](https://user-images.githubusercontent.com/96851738/151152587-c04ea376-4418-4dcc-b382-5351868f9937.png)
+![login](https://user-images.githubusercontent.com/96851738/151152594-40cc5499-9f2f-4ba1-9005-c8960b31a8f2.png)
+
      
    <li>Home Page
      <p> This is the first page that will appear after you have sign up or log in into the system. This page consists of a call to action button register now that will redirect you to the registration form. other than that, this page include our services like what we offer to people, where are we located, some images of our previous best alumni that used to study in StudyPoint and Contact us section. </p>
