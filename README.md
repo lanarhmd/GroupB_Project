@@ -125,7 +125,8 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
     
    <li> Student Registration Page
      
-  ![mmhjh](https://user-images.githubusercontent.com/61736340/151133124-c5c10788-cb2a-487d-a257-11d024dbc71b.png)
+  ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
+
     
    This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.
 
