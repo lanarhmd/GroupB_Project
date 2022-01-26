@@ -107,7 +107,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 
   <h3> 4.0  A sequence diagram to represent the interaction of the proposed web application. </h3>
-  ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
+    ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
