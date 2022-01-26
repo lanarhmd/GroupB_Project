@@ -111,15 +111,22 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
+    
+    <li> Front Page before Log in
 
    ![image](https://user-images.githubusercontent.com/96851738/151143211-786627ef-3205-4df9-9e26-57a2e8934340.png)
     ![image](https://user-images.githubusercontent.com/96851738/151143251-31416527-c024-41a6-b8a6-fe99f09e18f7.png)
 
  <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
     
+      <li>  Log in and Register page.
     ![image](https://user-images.githubusercontent.com/96851738/151143579-d3b842f5-ed40-412d-b581-64d8db475431.png)
     ![image](https://user-images.githubusercontent.com/96851738/151143633-dba6ccba-a361-4d46-9d33-7a200f17a583.png)
-    <p> Log in and Register page. </p>
+    <p> First time User need to register their account and log in to enter the website page </p>
+        
+      <li> Homepage
+         
+      <li> About page
     
     
     
@@ -144,7 +151,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
-  <li>Communication barrier occur because some of us are not in mahallah.</li>
+  <li> ?</li>
 </ul>
 
   </div>
