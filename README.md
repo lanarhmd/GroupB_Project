@@ -135,7 +135,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
-  <li>?</li>
+  <li> The complexity to manage the codebase</li>
 </ul>
 
   </div>
