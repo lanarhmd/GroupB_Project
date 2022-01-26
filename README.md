@@ -161,9 +161,9 @@ Below is the page that will be appeared if we click on the subject section.
    <li> Student Registration Page
        <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject. </p>
 
-     
-  ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
-
+  ![image](https://user-images.githubusercontent.com/96851738/151175957-22544c40-ad71-4263-bad0-d9308dac7a0f.png)
+ 
+  
    
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
