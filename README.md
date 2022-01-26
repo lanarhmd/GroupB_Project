@@ -133,7 +133,12 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  
    <li>Home Page
      
-     ![home1](https://user-images.githubusercontent.com/96868699/151148555-aa61c30e-efff-4992-8815-f647e00d4dfc.png)
+     ![home1](https://user-images.githubusercontent.com/96868699/151148886-73ab78b4-99d2-4c8e-844e-44f8f53de854.png)
+      
+     ![home5](https://user-images.githubusercontent.com/96868699/151148942-e3383b52-9312-4d19-b333-fb0ffd8c59ef.png)
+
+     
+ 
 
     
    
