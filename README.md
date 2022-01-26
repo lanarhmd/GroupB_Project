@@ -117,7 +117,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
   This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.
     
    
-   Tutor Registration Page
+   <li>Tutor Registration Page
     
    ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
