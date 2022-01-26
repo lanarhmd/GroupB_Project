@@ -111,13 +111,17 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
-![1](https://user-images.githubusercontent.com/96851738/151132353-10cbce2e-ef37-41ed-b535-5fc985b6bfae.png)
-![2](https://user-images.githubusercontent.com/96851738/151132458-77e89025-013e-4c29-8818-6965f4487398.png)
-    
-  This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.
-    
-    ![image](https://user-images.githubusercontent.com/96851738/151139538-02031c37-3a4e-4509-9289-efccbdd69be2.png)
 
+   (gambar page first) 
+ <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
+    
+    (gambar login)
+    (gambar register)
+    
+    (gambar part kau)
+    
+    
+ 
     
    
    <li>Tutor Registration Page
