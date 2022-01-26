@@ -132,6 +132,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
     
  
    <li>Home Page
+     <p> This is the first page that will appear after you have sign up or log in into the system. This page consists of a call to action button register now that will redirect you to the registration form. other than that, this page include our services like what we offer to people, where are we located and our previous best alumni that used to study in StudyPoint </p>
      
    ![home1](https://user-images.githubusercontent.com/96868699/151150054-9f516bf2-3d0b-4a06-86ca-e2d37ac584e1.png)
 
