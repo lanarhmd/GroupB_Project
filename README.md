@@ -63,47 +63,46 @@ database tables with one-to-many relationship </h3>
   <h2> TUITION REGISTRATION SYSTEM (StudyPoint) </h2>
 
 <h3> GROUP MEMBER:
-NAME	MATRIC NO
-NUR AFIQAH BT MOHD ROSLI	1910100
-NURHARITH AKMA BT HARISA	1910110
-MASTURA BT MOHAMAD RIZAL	1918378
-NUR AMELIENE LEE	1912216
-  JULYANA BINTI RAHMAD 	1912068 </h3>
+  <p>NAME	MATRIC NO</p>
+1. NUR AFIQAH BT MOHD ROSLI	1910100
+2. NURHARITH AKMA BT HARISA	1910110
+3. MASTURA BT MOHAMAD RIZAL	1918378
+4. NUR AMELIENE LEE	1912216
+5. JULYANA BINTI RAHMAD 	1912068 </h3>
 
-LECTURER NAME:
+  <h3> LECTURER NAME: </h3>
 DR KHAIRUL AZMI
 
  
-1.0 INTRODUCTION
+  <h3> 1.0 INTRODUCTION</h3>
 This web application was proposed to ease the StudyPoint tuition centre to manage their data and also to help the process of registration become smooth.  This website will create an effective way for student to register for a tuition session. It also creates the career path for tutor to join an education centre. Tutor can use this website to register to be the tutor for StudyPoint tuition centre. All the data can be store in the database safely and it also easy to access. 
 
-2.0 Objective 
- To have an efficient database management system
- Able to control and manage the registration activity
- To make the registration step convenience for the student and tutor.
+  <h3> 2.0 Objective </h3>
+-To have an efficient database management system
+- Able to control and manage the registration activity
+- To make the registration step convenience for the student and tutor.
 
-3.0 Features and functionalities of the proposed web application.
-  Security
- Form 
-Photo gallery
-Calendar
- Video
-Location map
-Social integration
-Responsive website
-Two factor authentication
-Call to action
-Clear navigation
+  <h3> 3.0 Features and functionalities of the proposed web application. </h3>
+-  Security
+- Form 
+-Photo gallery
+-Calendar
+- Video
+-Location map
+-Social integration
+-Responsive website
+-Two factor authentication
+-Call to action
+-Clear navigation
 
-4.0  A sequence diagram to represent the interaction of the proposed web application.
-![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
+  <h3> 4.0  A sequence diagram to represent the interaction of the proposed web application. </h3>
+  ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
 
-5.0 Project system captured screen and explanation 
-  
-  
 
-6.0 . What is the challenge/difficulties to develop the application
-  <p> The difficulties that we have faced during this application development is </p>
- 
+  <h3> 5.0 Project system captured screen and explanation </h3>
+
+  <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
+  - Appropriate design selection to ensure the application is easy to use
+
 
   
