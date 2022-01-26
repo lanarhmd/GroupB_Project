@@ -31,7 +31,7 @@ to access.
 
 <h3> e) Features and functionalities of the proposed web application </h3>
 
-- Live chat
+- Live chat.
 - Security
 - Web push notification
 - Social integration
