@@ -111,19 +111,22 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
-![1](https://user-images.githubusercontent.com/96851738/151132353-10cbce2e-ef37-41ed-b535-5fc985b6bfae.png)
-![2](https://user-images.githubusercontent.com/96851738/151132458-77e89025-013e-4c29-8818-6965f4487398.png)
+![1](htts://user-images.githubusercontent.com/96851738/151132353-10cbce2e-ef37-41ed-b535-5fc985b6bfae.png)
+![2](htts://user-images.githubusercontent.com/96851738/151132458-77e89025-013e-4c29-8818-6965f4487398.png)
     
   <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre. <p>
-    ![1](https://user-images.githubusercontent.com/96851738/151133076-3dcd5c83-b159-40af-96bb-f53b89347cf6.png)
-![2](https://user-images.githubusercontent.com/96851738/151133086-09f345e0-2e55-4917-b2a8-fec19cafc8a8.png)
-
+    
    
-  <li>Tutor Registration Page
+    <li>Tutor Registration Page</li>
     
    ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
   <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
+    
+    <li>Student Registration Page</li>
+  ![mmhjh](https://user-images.githubusercontent.com/61736340/151133124-c5c10788-cb2a-487d-a257-11d024dbc71b.png)
+    
+    <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.<p>
 
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
