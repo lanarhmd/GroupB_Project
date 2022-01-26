@@ -121,9 +121,9 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
        
   <li>Log in and Register Page
     
-    
-    ![image](https://user-images.githubusercontent.com/96851738/151143579-d3b842f5-ed40-412d-b581-64d8db475431.png)
-    ![image](https://user-images.githubusercontent.com/96851738/151143633-dba6ccba-a361-4d46-9d33-7a200f17a583.png)
+ ![Screenshot (206)](https://user-images.githubusercontent.com/96851738/151144947-4cab144b-2ab7-484c-90af-e878d05aa643.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/96851738/151144960-513db0b9-7f35-4caa-a582-36de83ce42c6.png)
+
     <p> First time User need to register their account and then log in to enter the website page </p>
         
     
