@@ -31,7 +31,7 @@ to access.
 
 <h3> e) Features and functionalities of the proposed web application </h3>
 
-- Live chat.
+- Live chat
 - Security
 - Web push notification
 - Social integration
@@ -142,28 +142,29 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
  <li> About Page
    <p> In this page, basically we provide all of the information regaring to our tuition center. User can read about our history and journey. They also can get information of the subject offered and the fees that we charged. At the end of this page they can get to know some of tutors. 
-     ![aboutpage](https://user-images.githubusercontent.com/80525884/151173803-36c85e75-a35d-47f4-b0ff-9226e3c8c682.png)
+     
 
-          
+    
+
 Below is the page that will be appeared if we click on the subject section.
      
-     <img width="1440" alt="subject" src="https://user-images.githubusercontent.com/80525884/151174035-5feb64dd-11c3-49a1-b665-71f70bf40364.png">
+<img width="1440" alt="subject" src="https://user-images.githubusercontent.com/80525884/151174595-c28e1434-0256-467e-a1dc-6764ef02a134.png">
 
 
             
    <li>Tutor Registration Page
        <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
      
- ![tutor](https://user-images.githubusercontent.com/96851738/151176266-b51be3cf-e34f-41f3-9849-d9a5f962192d.png)
+ 
 
-
+   ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
    <li> Student Registration Page
        <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject. </p>
 
-  ![stud](https://user-images.githubusercontent.com/96851738/151176271-40dfb8e6-62aa-4277-9f26-eb6c38eb0b98.png)
- 
-  
+     
+  ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
+
    
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
