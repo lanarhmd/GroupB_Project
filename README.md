@@ -114,12 +114,15 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
   ![image](https://user-images.githubusercontent.com/96851738/151106071-91f59e4e-79b9-4888-9b7a-455436cffa3d.png)
   ![image](https://user-images.githubusercontent.com/96851738/151106048-0d64f7ee-6bb1-4d78-9d00-038484b527fd.png)
   <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre. <p>
+    
+    
+  <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
 
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
-  <li>?</li>
+  <li>To make sure every function provided is usable to the users</li>
   <li>?</li>
 </ul>
 
