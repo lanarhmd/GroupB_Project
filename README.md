@@ -107,30 +107,23 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 
   <h3> 4.0  A sequence diagram to represent the interaction of the proposed web application. </h3>
-    ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
+  
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
      <li>Front page before enter the website
+        <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
    
-
    ![image](https://user-images.githubusercontent.com/96851738/151143211-786627ef-3205-4df9-9e26-57a2e8934340.png)
     ![image](https://user-images.githubusercontent.com/96851738/151143251-31416527-c024-41a6-b8a6-fe99f09e18f7.png)
-
- <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
        
   <li>Log in and Register Page
+     First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database.
+        
     
  ![Screenshot (206)](https://user-images.githubusercontent.com/96851738/151144947-4cab144b-2ab7-484c-90af-e878d05aa643.png)
 ![Screenshot (205)](https://user-images.githubusercontent.com/96851738/151144960-513db0b9-7f35-4caa-a582-36de83ce42c6.png)
-    
- First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database.
-        
-    
-    
-    
-    
- 
+     
    <li>Home Page
      <p> This is the first page that will appear after you have sign up or log in into the system. This page consists of a call to action button register now that will redirect you to the registration form. other than that, this page include our services like what we offer to people, where are we located, some images of our previous best alumni that used to study in StudyPoint and Contact us section. </p>
      
@@ -147,18 +140,17 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
    
    <li>Tutor Registration Page
+       <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
     
    ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
-  <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
-    
    <li> Student Registration Page
+       This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.
+
      
   ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
 
-    
-   This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.
-
+   
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
  <ul>
