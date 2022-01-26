@@ -117,12 +117,10 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
  <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
     
-    ![photo1643190202 (1)](https://user-images.githubusercontent.com/96868699/151140297-3a51f883-7ff6-46c3-82be-0e4f250f5b72.jpeg)
-
-    (gambar login)
-    (gambar register)
+    ![image](https://user-images.githubusercontent.com/96851738/151143579-d3b842f5-ed40-412d-b581-64d8db475431.png)
+    ![image](https://user-images.githubusercontent.com/96851738/151143633-dba6ccba-a361-4d46-9d33-7a200f17a583.png)
+    <p> Log in and Register page. </p>
     
-    (gambar part kau)
     
     
  
