@@ -57,6 +57,7 @@ database tables with one-to-many relationship </h3>
 - https://capstoneguide.com/student-database-management-system-capstone-project-document/
 - https://www.daniweb.com/programming/databases/threads/374806/tuition-centre-erd
   
+  <div> 
   
   <h1> FINAL PROJECT REPORT </h1>
    
@@ -112,7 +113,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
   <h3> 5.0 Project system captured screen and explanation </h3>
   ![image](https://user-images.githubusercontent.com/96851738/151106071-91f59e4e-79b9-4888-9b7a-455436cffa3d.png)
   ![image](https://user-images.githubusercontent.com/96851738/151106048-0d64f7ee-6bb1-4d78-9d00-038484b527fd.png)
-  <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre. 
+  <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre. <p>
 
 
   <h3> 6.0 . What is the challenge/difficulties to develop the application </h3>
@@ -122,4 +123,4 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
   <li>?</li>
 </ul>
 
-  
+  </div>
