@@ -108,15 +108,16 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
   <h3> 4.0  A sequence diagram to represent the interaction of the proposed web application. </h3>
   
-    ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
+ ![Sequence](https://user-images.githubusercontent.com/61736340/147633270-6a84e588-42e4-4988-9058-20829775e735.jpg)
 
 
   <h3> 5.0 Project system captured screen and explanation </h3>
      <li>Front page before enter the website
         <p> This is the first page that user can see after click on out website. We provide a simple introduction and also provide a picture gallery and video to attract them to join our tuition centre.</p>
-   
+       
+   ![1](https://user-images.githubusercontent.com/96851738/151152542-20c95712-c80e-4c34-95b5-3d9a7b9e0728.png)
    ![2](https://user-images.githubusercontent.com/96851738/151152532-683c5acc-6664-4456-942c-f21b08ed1304.png)
-![1](https://user-images.githubusercontent.com/96851738/151152542-20c95712-c80e-4c34-95b5-3d9a7b9e0728.png)
+
 
        
   <li>Log in and Register Page
