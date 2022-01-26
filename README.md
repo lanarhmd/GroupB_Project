@@ -123,8 +123,8 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
     
  ![Screenshot (206)](https://user-images.githubusercontent.com/96851738/151144947-4cab144b-2ab7-484c-90af-e878d05aa643.png)
 ![Screenshot (205)](https://user-images.githubusercontent.com/96851738/151144960-513db0b9-7f35-4caa-a582-36de83ce42c6.png)
-
-    <p> First time User need to register their account and then log in to enter the website page </p>
+    
+ First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database.
         
     
     
