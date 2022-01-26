@@ -79,7 +79,7 @@ DR KHAIRUL AZMI
 
  
   <h3> 1.0 INTRODUCTION</h3>
-This web application was proposed to ease the StudyPoint tuition centre to manage their data and also to help the process of registration become smooth.  This website will create an effective way for student to register for a tuition session. It also creates the career path for tutor to join an education centre. Tutor can use this website to register to be the tutor for StudyPoint tuition centre. All the data can be store in the database safely and it also easy to access. 
+This web application was proposed to ease the StudyPoint tuition centre to manage their data and also to help the process of registration become smooth. This website also provide the information about the tuition program such as the fees, the subject, tutor and the location of the center.  This website will create an effective way for student to register for a tuition session. It also creates the career path for tutor to join an education centre. Tutor can use this website to register to be the tutor for StudyPoint tuition centre. All the data can be store in the database safely and it also easy to access. 
 
   <h3> 2.0 Objective </h3>
   
