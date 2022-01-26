@@ -157,14 +157,13 @@ Below is the page that will be appeared if we click on the subject section.
        <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
      
  
+![tutor](https://user-images.githubusercontent.com/96851738/151177240-d77ce9f9-8ecf-4808-8a94-d23f5e730283.png)
 
-   ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
    <li> Student Registration Page
        <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject. </p>
 
-     
-  ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
+ ![stud](https://user-images.githubusercontent.com/96851738/151177309-93535399-5ca1-4b06-b542-7b74f0718b4e.png)
 
    
 
