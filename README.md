@@ -1,4 +1,3 @@
-<h1> PROPOSAL </h1>
 <h1> STUDYPOINT TUITION CENTRE WEBSITE. </h1>
 
 <h2> Youtube Link = https://youtu.be/YaIJrK3VmhA </h2>
@@ -79,7 +78,7 @@ DR KHAIRUL AZMI
 
  
   <h3> 1.0 INTRODUCTION</h3>
-This web application was proposed to ease the StudyPoint tuition centre to manage their data and also to help the process of registration become smooth. This website also provide the information about the tuition program such as the fees, the subject, tutor and the location of the center.  This website will create an effective way for student to register for a tuition session. It also creates the career path for tutor to join an education centre. Tutor can use this website to register to be the tutor for StudyPoint tuition centre. All the data can be store in the database safely and it also easy to access. 
+This web application was proposed to ease the StudyPoint tuition centre to manage their data and also to help the process of registration become smooth.  This website will create an effective way for student to register for a tuition session. It also creates the career path for tutor to join an education centre. Tutor can use this website to register to be the tutor for StudyPoint tuition centre. All the data can be store in the database safely and it also easy to access. 
 
   <h3> 2.0 Objective </h3>
   
@@ -141,11 +140,17 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
 ![home3](https://user-images.githubusercontent.com/96868699/151150105-ef4ea3f6-e2c2-41eb-9529-ab9ae61055c4.png)
 
+ <li> About Page
+   <p> In this page, basically we provide all of the information regaring to our tuition center. User can read about our history and journey. They also can get information of the subject offered and the fees that we charged. At the end of this page they can get to know some of tutors. 
+     
+     ![AboutPage](https://user-images.githubusercontent.com/80525884/151172770-5fa41ebd-da61-48da-a4ba-a62fad053692.png)
 
-   
+            
    <li>Tutor Registration Page
        <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
-    
+     
+ 
+
    ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
    <li> Student Registration Page
@@ -160,7 +165,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
-  <li>Communication barrier occur because some of us are not staying in Mahallah. Thus, it is quite difficult since we have not meet in face to face</li>
+  <li>Communication barrier occured because some of us are not staying in Mahallah. Thus, it is quite difficult since we have not meet in face to face</li>
 </ul>
 
   </div>
