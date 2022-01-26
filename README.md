@@ -133,18 +133,16 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  
    <li>Home Page
      
-   
+   ![home1](https://user-images.githubusercontent.com/96868699/151150054-9f516bf2-3d0b-4a06-86ca-e2d37ac584e1.png)
 
-      ![home1](https://user-images.githubusercontent.com/96868699/151149561-18f785de-a6f3-47cc-a685-6bde3e2faa8b.png)
-
-  
-     ![home5](https://user-images.githubusercontent.com/96868699/151149604-3356966c-814f-44a9-b4a2-c7ebc9e9058e.png)
+![home5](https://user-images.githubusercontent.com/96868699/151150069-1c110fdb-11c2-4c0b-8862-a4e22a4fe826.png)
 
  ![home4](https://user-images.githubusercontent.com/96868699/151149649-ea923aca-e095-4bd0-aa4e-5a834d08ce1f.png)
 
 ![home2](https://user-images.githubusercontent.com/96868699/151149680-fc2e339b-6311-40a7-8380-b11c411b02fd.png)
 
-    ![home3](https://user-images.githubusercontent.com/96868699/151149699-e8c685a4-837e-424c-b102-b36b2a277ff9.png)
+![home3](https://user-images.githubusercontent.com/96868699/151150105-ef4ea3f6-e2c2-41eb-9529-ab9ae61055c4.png)
+
 
    
    <li>Tutor Registration Page
