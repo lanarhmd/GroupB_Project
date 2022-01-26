@@ -180,6 +180,8 @@ Below is the page that will be appeared if we click on the subject section.
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
   <li>Communication barrier occured because some of us are not staying in Mahallah. Thus, it is quite difficult since we have not meet in face to face</li>
+   <li>To connect the forms to the database</li>
+   <li>To compile everyones' work together</li>
 </ul>
 
   </div>
