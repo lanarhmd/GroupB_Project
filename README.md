@@ -163,7 +163,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
-  <li> ?</li>
+  <li>Communication barrier occur because some of us are not staying in Mahallah. Thus, it is quite difficult since we have not meet in face to face</li>
 </ul>
 
   </div>
