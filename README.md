@@ -145,6 +145,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
      
 
     
+![about](https://user-images.githubusercontent.com/96851738/151177015-1f42287d-4575-4da5-8947-43dac3975adb.png)
 
 Below is the page that will be appeared if we click on the subject section.
      
