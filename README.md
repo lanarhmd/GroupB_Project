@@ -144,7 +144,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
  <ul>
   <li>Appropriate design selection to ensure the application is easy to use</li>
   <li>To make sure every function provided is usable to the users</li>
-  <li> ?</li>
+  <li>It is quite difficult for us to have a proper communication because some of us are not in Mahallah. Thus, the communication barrier occurs.</li>
 </ul>
 
   </div>
