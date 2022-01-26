@@ -118,7 +118,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
     ![image](https://user-images.githubusercontent.com/96851738/151143251-31416527-c024-41a6-b8a6-fe99f09e18f7.png)
        
   <li>Log in and Register Page
-     First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database.
+    <p> First time User need to register their account and then log in to enter the website page. The data will be save in the phpmyadmin database. User need to register their name, email and also the password </p>
         
     
  ![Screenshot (206)](https://user-images.githubusercontent.com/96851738/151144947-4cab144b-2ab7-484c-90af-e878d05aa643.png)
@@ -145,7 +145,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
    ![image](https://user-images.githubusercontent.com/97616199/151120155-345d7fd4-d34d-403a-a033-dd811023daa9.png)
 
    <li> Student Registration Page
-       This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.
+       <p> This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject. </p>
 
      
   ![studreg](https://user-images.githubusercontent.com/61736340/151134284-d94e331c-e9c6-4051-a1d4-352d6e1ba0b1.png)
