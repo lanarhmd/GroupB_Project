@@ -146,11 +146,19 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
     
 ![about](https://user-images.githubusercontent.com/96851738/151177015-1f42287d-4575-4da5-8947-43dac3975adb.png)
+<img width="1440" alt="Screenshot 2022-01-26 at 10 10 01 PM" src="https://user-images.githubusercontent.com/80525884/151178375-83b2c98f-a621-4732-8251-da7d3a9218cf.png">
+<img width="1440" alt="Screenshot 2022-01-26 at 10 10 50 PM" src="https://user-images.githubusercontent.com/80525884/151178493-7a90af85-d624-4ef8-881d-10357edfe9b9.png">
+     <img width="1440" alt="Screenshot 2022-01-26 at 10 10 15 PM" src="https://user-images.githubusercontent.com/80525884/151178547-628f83ca-de58-404e-b13f-34763c135cf4.png">
+<img width="1440" alt="Screenshot 2022-01-26 at 10 10 21 PM" src="https://user-images.githubusercontent.com/80525884/151178569-3f64cdc7-7b58-417f-ae7f-eea5bb1322cc.png">
+     
+<img width="1440" alt="Screenshot 2022-01-26 at 10 10 28 PM" src="https://user-images.githubusercontent.com/80525884/151178811-564cfdeb-73ff-46e5-8141-6f1e978d0e38.png">
+<img width="1440" alt="Screenshot 2022-01-26 at 10 11 11 PM" src="https://user-images.githubusercontent.com/80525884/151178878-1cd2785c-4dd1-4b2a-b470-7439da357853.png">
+     <img width="1440" alt="Screenshot 2022-01-26 at 10 11 25 PM" src="https://user-images.githubusercontent.com/80525884/151178896-ca66922b-05fb-49a0-88fa-a7b24e07badf.png">
+
 
 Below is the page that will be appeared if we click on the subject section.
      
 <img width="1440" alt="subject" src="https://user-images.githubusercontent.com/80525884/151174595-c28e1434-0256-467e-a1dc-6764ef02a134.png">
-
 
             
    <li>Tutor Registration Page
