@@ -142,8 +142,13 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
  <li> About Page
    <p> In this page, basically we provide all of the information regaring to our tuition center. User can read about our history and journey. They also can get information of the subject offered and the fees that we charged. At the end of this page they can get to know some of tutors. 
+     ![aboutpage](https://user-images.githubusercontent.com/80525884/151173803-36c85e75-a35d-47f4-b0ff-9226e3c8c682.png)
+
+          
+Below is the page that will be appeared if we click on the subject section.
      
-     ![AboutPage](https://user-images.githubusercontent.com/80525884/151172770-5fa41ebd-da61-48da-a4ba-a62fad053692.png)
+     <img width="1440" alt="subject" src="https://user-images.githubusercontent.com/80525884/151174035-5feb64dd-11c3-49a1-b665-71f70bf40364.png">
+
 
             
    <li>Tutor Registration Page
