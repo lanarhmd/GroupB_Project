@@ -123,7 +123,7 @@ This web application was proposed to ease the StudyPoint tuition centre to manag
 
   <p> This is the page where a person can apply to be a tutor in our tuition centre. The user needs to fill in some of her/his basic details. It is just a simple and an intuitive form. <p>
     
-    Student Registration Page
+   <li> Student Registration Page
   ![mmhjh](https://user-images.githubusercontent.com/61736340/151133124-c5c10788-cb2a-487d-a257-11d024dbc71b.png)
     
    This Student Registration Form allows students to quickly and easily sign up for their class tuition with their prefered subject.
