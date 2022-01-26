@@ -63,12 +63,14 @@ database tables with one-to-many relationship </h3>
   <h2> TUITION REGISTRATION SYSTEM (StudyPoint) </h2>
 
   <h3> GROUP MEMBER: </h3>
-  <p>NAME	MATRIC NO</p>
-  1. Nur Afiqah bt Mohd Rosli 1910100
-  2. Mastura bt Mohamad Rizal 1918378
-  3. Nurharith Akma bt Harisa 1910110
-  4. Nur Ameliene Lee         1912216
-  5. Julyana binti Rahmad     1912068
+  
+ <ol>
+  <li>Nur Afiqah bt Mohd Rosli 1910100</li>
+  <li>Nurharith Akma bt Harisa 1910110</li>
+  <li>Mastura bt Mohamad Rizal 1918378</li>
+  <li>Nur Ameliene Lee         1912216</li>
+   <li>Julyana binti Rahmad     1912068</li>
+</ol>
 
   <h3> LECTURER NAME: </h3>
 DR KHAIRUL AZMI
